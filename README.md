@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm Kalumba Jalaludin! I'm a **Software Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -85,19 +85,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 
 
-<!--
-**JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-⭐️ From [JoykishanSharma](https://github.com/JoykishanSharma)
+⭐️ From [Kalumba Jalaludin](https://github.com/kayosoft)
