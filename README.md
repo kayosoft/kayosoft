@@ -9,12 +9,9 @@ I'm Kalumba Jalaludin! I'm a **Software Developer**:iphone:, looking to solve **
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-kalumbajalaludin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalumbajalaludin)
 [![Medium](https://img.shields.io/badge/-@kalumbajalaludin-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@kalumbajalaludin)
-[![Twitter](https://img.shields.io/badge/-@kalumna_j-c13584?style=flat&labelColor=c13584&logo=twitter&logoColor=white)](https://www.instagram.com/kalumba_j)
+[![Twitter](https://img.shields.io/badge/-@kalumba_j-blue?style=flat&labelColor=c13584&logo=Twitter&logoColor=white)](https://www.twitter.com/kalumba_j)
 [![Gmail](https://img.shields.io/badge/-kalumbajalaludin-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kalumbajalaludin@gmail.com)
 
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
 
 <!-- Working GIF -->
 <!-- <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" /> -->
